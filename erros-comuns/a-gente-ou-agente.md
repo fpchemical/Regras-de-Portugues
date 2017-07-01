@@ -1,6 +1,7 @@
 ## A gente ou agente
 
-
+<br>
+<br>
 
 **A gente** é uma locução pronominal semanticamente equivalente ao pronome **nós**. 
 
@@ -17,6 +18,8 @@ Exemplos:
 
 > Toda a gente viu como ela ficou transtornada. (Todos viram como ela ficou transtornada.)
 
+<br>
+<br>
 
 **Agente** de acordo com a definição é aquele que: age, que exerce alguma ação.
 
