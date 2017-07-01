@@ -1,4 +1,4 @@
-## Para mim / Para eu
+## Para mim ou Para eu
 
 O uso do pronome **eu** ocorre quando o mesmo é o sujeito da oração
 
