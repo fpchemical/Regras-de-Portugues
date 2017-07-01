@@ -47,13 +47,13 @@ Exemplos: ideia, heroico, assembleia.
 
 ## DICAS 
 
-Se você tem alguma dúvida sobre a acentuação gráfica de uma palavra siga as
+Se você tem alguma dúvida sobre a acentuação gráfica de uma palavra siga as<br>
 seguintes dicas
 
-1) Pronuncie a palavra bem devagar, procurando sentir onde se localiza o seu acento
+1) Pronuncie a palavra bem devagar, procurando sentir onde se localiza o seu acento<br>
 tônico, ou seja, sua sílaba mais forte.
 
-2) Se a sílaba tônica estiver na última sílaba da palavra será considerada uma
+2) Se a sílaba tônica estiver na última sílaba da palavra será considerada uma<br>
 palavra OXÍTONA.
 
 Exemplos: caPUZ, uruBU, aMOR, etc.
