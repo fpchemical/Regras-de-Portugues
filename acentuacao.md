@@ -5,15 +5,15 @@
 Tem como pré-requisito o conhecimento da pronúncia dos vocábulos em que fica<br>
 claro a presença do acento tônico.
 
-**REGRA GERAL:** Acentuam-se graficamente aqueles vocábulos que sem acento poderiam
+**REGRA GERAL:** Acentuam-se graficamente aqueles vocábulos que sem acento poderiam<br>
 ser lidos ou então interpretados de outra forma, elas se baseiam na quantidade de<br>
 palavras oxítonas, paroxítonas e proparoxítonas que existem.
 
 Uma breve revisão de Sílabas Tônicas:
 
-> As palavras oxítonas são aquelas que possuem a última sílaba como a tônica.
-> As palavras paroxítonas são aquelas que possuem a penúltima sílaba como a tônica.
-> As palavras proparoxítonas são aquelas que possuem a antepenúltima sílaba como a tônica.
+> As palavras oxítonas são aquelas que possuem a última sílaba como a tônica.<br>
+> As palavras paroxítonas são aquelas que possuem a penúltima sílaba como a tônica.<br>
+> As palavras proparoxítonas são aquelas que possuem a antepenúltima sílaba como a tônica.<br>
 
 **Oxítonas:** são acentuadas se terminarem em A(S), E(S), O(S), EM ou ENS.
 
