@@ -9,7 +9,7 @@ claro a presença do acento tônico.
 ser lidos ou então interpretados de outra forma, elas se baseiam na quantidade de<br>
 palavras oxítonas, paroxítonas e proparoxítonas que existem.
 
-> Uma breve revisão de Sílabas Tônicas:
+Uma breve revisão de Sílabas Tônicas:
 
 > As palavras oxítonas são aquelas que possuem a última sílaba como a tônica.
 > As palavras paroxítonas são aquelas que possuem a penúltima sílaba como a tônica.
