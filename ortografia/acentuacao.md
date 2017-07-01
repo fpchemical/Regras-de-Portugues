@@ -15,9 +15,15 @@ Uma breve revisão de Sílabas Tônicas:
 > As palavras paroxítonas são aquelas que possuem a penúltima sílaba como a tônica.<br>
 > As palavras proparoxítonas são aquelas que possuem a antepenúltima sílaba como a tônica.<br>
 
+<br>
+<br>
+
 **Oxítonas:** são acentuadas se terminarem em A(S), E(S), O(S), EM ou ENS.
 
 Exemplos: jacaré, você, armazéns, alguém, paletó, vovô, sofás, ninguém, etc.
+
+<br>
+<br>
 
 **Paroxítonas:** não são acentuadas se terminarem em A(S), E(S), O(S), EM ou ENS.
 
@@ -27,13 +33,22 @@ Reforçando: se a palavra paroxítona tiver outra terminação,<br>
 nós devemos acentuá-la: lápis, câncer, órgão, amável, hífen, álbum,<br>
 pônei, colégio, vírus, bônus, táxi, revólver, pólen, túnel, bíceps, etc.
 
+<br>
+<br>
+
 **Proparoxítonas:** todas são acentuadas, independentemente de suas terminações.
 
 Exemplos: ônibus, lâmpada.
 
+<br>
+<br>
+
 **Monossílabos Tônicos:** são acentuados se terminarem em A(S), E(S) ou O(S).
 
 Exemplos: pá, pé, pós.
+
+<br>
+<br>
 
 **Ditongo Tônico:** devemos acentuar os ditongos abertos (éi, éis, éu, éus, ói, óis)<br>
 nas oxítonas ou nos monossílabos tônicos.
@@ -44,6 +59,9 @@ Reforçando: caso o ditongo tônico não esteja na última sílaba da palavra,<b
 então não o acentuaremos. 
 
 Exemplos: ideia, heroico, assembleia.
+
+<br>
+<br>
 
 ## DICAS 
 
