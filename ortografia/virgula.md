@@ -12,8 +12,8 @@ Separa elementos dentro de uma oração e orações dentro de um período.
 <br>
 <br>
 
-1) A vírgula separa elementos coordenados em enumerações com a mesma função sintática,<br>
-quando não separados pelas conjunções: e, ou, nem.
+**1) A vírgula separa elementos coordenados em enumerações com a mesma função sintática,<br>
+quando não separados pelas conjunções: e, ou, nem.**
 
 Exemplos:
 
@@ -26,7 +26,7 @@ Exemplos:
 <br>
 <br>
 
-2) Isola o aposto e outros elementos explicativos.
+**2) Isola o aposto e outros elementos explicativos.**
 
 Exemplos:
 
@@ -37,7 +37,7 @@ Exemplos:
 <br>
 <br>
 
-3) Isola o vocativo, inclusivamente o vocativo inicial de cartas e comunicações.
+**3) Isola o vocativo, inclusivamente o vocativo inicial de cartas e comunicações.**
 
 Exemplos:
 
@@ -48,7 +48,8 @@ Exemplos:
 <br>
 <br>
 
-4) Isola os advérbios sim e não, quando iniciam uma oração dando uma resposta, se referindo à oração anterior.
+**4) Isola os advérbios sim e não, quando iniciam uma oração dando<br>
+uma resposta, se referindo à oração anterior.**
 
 Exemplos:
 
@@ -59,7 +60,7 @@ Exemplos:
 <br>
 <br>
 
-5) Numa data, isola o nome do lugar.
+**5) Numa data, isola o nome do lugar.**
 
 Exemplos:
 
@@ -70,7 +71,7 @@ Exemplos:
 <br>
 <br>
 
-6) Isola um elemento pleonástico que vem antes do verbo.
+**6) Isola um elemento pleonástico que vem antes do verbo.**
 
 Exemplos:
 
@@ -81,8 +82,8 @@ Exemplos:
 <br>
 <br>
 
-7) Pode isolar o adjunto adverbial no início ou meio da oração, sendo dispensável<br>
-quando o adjunto adverbial for apenas um advérbio.
+**7) Pode isolar o adjunto adverbial no início ou meio da oração, sendo dispensável<br>
+quando o adjunto adverbial for apenas um advérbio.**
 
 Exemplos:
 
@@ -95,7 +96,7 @@ Exemplos:
 <br>
 <br>
 
-8) Isola elementos repetidos.
+**8) Isola elementos repetidos.**
 
 Exemplos:
 
@@ -106,7 +107,7 @@ Exemplos:
 <br>
 <br>
 
-9) Indica a supressão de uma palavra, normalmente do verbo.
+**9) Indica a supressão de uma palavra, normalmente do verbo.**
 
 Exemplos:
 
@@ -117,8 +118,8 @@ Exemplos:
 <br>
 <br>
 
-10) Isola expressões intercaladas na oração, como: por exemplo,<br>
-contudo, todavia, além disso, logo, enfim,…
+**10) Isola expressões intercaladas na oração, como: por exemplo,<br>
+contudo, todavia, além disso, logo, enfim,…**
 
 Exemplos:
 
@@ -133,8 +134,8 @@ Exemplos:
 <br>
 <br> 
 
-11) A vírgula separa orações coordenadas assindéticas, ou seja, orações que<br>
-não estão ligadas através de conjunções, mas sim através de uma pausa.
+**11) A vírgula separa orações coordenadas assindéticas, ou seja, orações que<br>
+não estão ligadas através de conjunções, mas sim através de uma pausa.**
 
 Exemplos:
 
@@ -145,8 +146,8 @@ Exemplos:
 <br>
 <br>
 
-12) A vírgula separa orações coordenadas sindéticas, ou seja, orações que estão<br>
-ligadas através de conjunções, quando não introduzidas pela conjunção e.
+**12) A vírgula separa orações coordenadas sindéticas, ou seja, orações que estão<br>
+ligadas através de conjunções, quando não introduzidas pela conjunção "e".**
 
 Exemplos:
 
@@ -157,7 +158,7 @@ Exemplos:
 <br>
 <br>
 
-13) A vírgula isola orações intercaladas, bem como orações subordinadas adjetivas explicativas.
+**13) A vírgula isola orações intercaladas, bem como orações subordinadas adjetivas explicativas.**
 
 Exemplos:
 
@@ -168,8 +169,8 @@ Exemplos:
 <br>
 <br>
 
-14) A vírgula separa orações subordinadas adverbiais antepostas, bem como orações<br>
-reduzidas do gerúndio, particípio e infinitivo que equivalem a orações adverbiais
+**14) A vírgula separa orações subordinadas adverbiais antepostas, bem como orações<br>
+reduzidas do gerúndio, particípio e infinitivo que equivalem a orações adverbiais**
 
 Exemplos:
 
@@ -184,7 +185,7 @@ Exemplos:
 
 
 
-15) As orações coordenadas possuírem sujeitos distintos.
+**15) As orações coordenadas possuírem sujeitos distintos.**
 
 Exemplos:
 
@@ -195,7 +196,7 @@ Exemplos:
 <br>
 <br>
 
-16) A conjunção e for usada repetidamente para transmitir ênfase.
+**16) A conjunção e for usada repetidamente para transmitir ênfase.**
 
 Exemplos:
 
@@ -206,7 +207,7 @@ Exemplos:
 <br>
 <br>
 
-17) A conjunção e não transmitir uma noção de adição, mas sim um valor diferente.
+**17) A conjunção e não transmitir uma noção de adição, mas sim um valor diferente.**
 
 Exemplos:
 
@@ -219,9 +220,9 @@ Exemplos:
 
 ## Quando não se usa a vírgula
 
-18) Os elementos principais de uma oração nunca são separados por vírgulas quando se<br>
+**18) Os elementos principais de uma oração nunca são separados por vírgulas quando se<br>
 encontram seguidos na oração, ou seja, não se usa vírgula entre o sujeito e o predicado,<br>
-entre o verbo e seus objetos, entre o objeto direto e o objeto indireto,…
+entre o verbo e seus objetos, entre o objeto direto e o objeto indireto,…**
 
 Exemplos:
 
