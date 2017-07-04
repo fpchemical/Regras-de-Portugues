@@ -161,3 +161,70 @@ Exemplos:
 
 Marcelo deu um sorvete ao filho.
 O filho comprou uma casa para o pai.
+
+
+Dicas para o uso da vírgula
+
+
+
+
+
+
+
+A principal função da vírgula é separar elementos, marcando assim pequenas pausas no discurso.
+
+Dica 1: A vírgula separa itens enumerados ou elementos repetidos.
+
+Exemplos:
+
+Todos os dias eu lavo, passo, limpo, arrumo, cozinho e ainda trabalho fora! (enumeração)
+Os artigos em falta são: papel, borracha, lápis de cor, giz, apontador e elásticos. (enumeração)
+Paulo, Helena, Pedro, Lara e Tatiana não foram às aulas. (enumeração)
+Gosto muito, muito, muito, muito dessa música! (repetição)
+Dica 2: Não se usa vírgula entre sujeito e predicado e entre o verbo e os complementos verbais.
+
+
+Exemplos:
+
+Nós viajaremos amanhã.
+Os amigos deram presentes ao aniversariante.
+Dica 3: A vírgula isola e destaca elementos na frase.
+
+Exemplos:
+
+Ela, claramente, está descontrolada! (O adjunto adverbial fica separado por vírgula)
+Minha irmã, por exemplo, não come chocolate. (Uma expressão intercalada na oração fica entre vírgulas)
+Anda embora, Camila! (O vocativo fica separado por vírgula)
+Heloísa, nossa antiga professora de português, já não trabalha no colégio. (O aposto fica entre vírgulas)
+Sim, estou precisando de ajuda. (Sim e não ficam separados por vírgula em respostas)
+Recife, 27 de julho de 2015. (O nome da localidade fica separado por vírgula nas datas)
+Dica 4: A vírgula separa uma oração de outra oração e isola uma oração dentro de outra.
+
+Exemplos:
+
+Quero apenas crescer, ter amigos, ter uma família, ter saúde e ser feliz. (a vírgula separa orações assindéticas)
+Eu olhei para o prédio, mas não vi nada... (a vírgula separa orações ligadas por conjunções)
+O mais importante, referiu o diretor, é que todos trabalhem para o mesmo objetivo. (a vírgula isola orações intercaladas)
+Caso você ainda esteja no Rio, damos um passeio. (a vírgula isola orações subordinadas adverbiais)
+O papagaio, que é um animal barulhento, incomoda toda a gente. (a vírgula isola orações subordinadas adjetivas)
+Dica 5: A vírgula é usada em inversões e supressões.
+
+Exemplos:
+
+A correção dos testes, a professora ainda não a fez. (a vírgula separa um elemento pleonástico que vem antes do verbo)
+Eu quero ser bailarina; meu irmão, escritor. (a vírgula a supressão do verbo)
+Atenção!
+O uso da vírgula é facultativo no início ou meio da oração, quando o adjunto adverbial for apenas um advérbio.
+
+Exemplos:
+
+Ontem, fomos ao cinema ver um filme de comédia.
+Ontem fomos ao cinema ver um filme de comédia.
+Fique sabendo mais!
+A vírgula pode ser usada antes da conjunção e quando houver sujeitos distintos, repetição enfática do e ou quando a conjunção e transmite um valor diferente de uma adição.
+
+Exemplos:
+
+Eu fique esperando, e ele continuou trabalhando. (sujeitos distintos)
+Quero conhecer o mundo: o Brasil, e a Alemanha, e a Austrália, e a África do Sul,... (repetição enfática)
+Ele estudou todos os dias, e mesmo assim reprovou no teste. (valor diferente de adição)
