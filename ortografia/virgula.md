@@ -2,6 +2,11 @@
 
 > A vírgula é um sinal de pontuação que marca uma pequena pausa. 
 
+
+![vai uma vírgula aí?](http://1.bp.blogspot.com/-62fT9y8X7Kk/UYGeXg0MYSI/AAAAAAAADXw/y5AK17Atst0/s640/V%C3%ADrgula+1.jpg)
+
+<br>
+<br>
 Separa elementos dentro de uma oração e orações dentro de um período. 
 
 <br>
